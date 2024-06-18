@@ -1,4 +1,37 @@
 body{
-    background-image:url('image1.jpg');
+    background-image:url('image.jpg');
     background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    place-items: center;
+}
+.login{
+    margin-top: 100px;
+    color: red;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    background-color: white;
+    width: 400px;
+    border-radius: 2%;
+}
+.login-details{
+    text-align: left;
+}
+.logo{
+    width: 100px;
+    margin-top: 50px;
+    
+}
+button{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    width: 500px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+    background-color: rgb(250, 21, 97);
 }
