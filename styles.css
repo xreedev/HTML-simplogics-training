@@ -1,22 +1,21 @@
 body{
     background-image:url('image.jpg');
     background-size: cover;
-    justify-content: center;
-    align-items: center;
     display: grid;
     place-items: center;
+    font-family: 'Noto Sans', sans-serif;
 }
 .login{
     margin-top: 100px;
-    color: red;
+    color: black;
     justify-content: center;
-    align-items: center;
     text-align: center;
     display: grid;
     place-items: center;
     background-color: white;
     width: 400px;
-    border-radius: 2%;
+    border-radius: 4%;
+    border:1px solid #b83966;
 }
 .login-details{
     text-align: left;
@@ -29,9 +28,16 @@ body{
 button{
     margin-bottom: 50px;
     margin-top: 30px;
-    width: 500px;
+    width: 120%;
     height: 30px;
     border: none;
-    border-radius: 50%;
-    background-color: rgb(250, 21, 97);
+    background-color:#b83966;
+    color: white;
+}
+
+input{
+    width: 100%;
+    height: 25px;
+    border:1px solid #b83966;
+    border-radius: 5%;
 }
