@@ -1,8 +1,6 @@
 
 # LOREM IPSUM COMPANY - Login Page
 
-![LOREM IPSUM COMPANY Logo](resources/logo.jpg)
-
 ## Project Description
 
 The LOREM IPSUM COMPANY login page is designed to offer a clean and professional interface for user authentication. The page is crafted using HTML and CSS, featuring a centered login form with a modern aesthetic. It includes fields for username and password, styled to provide a user-friendly experience.
