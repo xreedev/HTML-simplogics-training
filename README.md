@@ -1,5 +1,5 @@
 
-# LOREM IPSUM COMPANY - Login Page
+# BASIC - Login Page
 
 ## Project Description
 
