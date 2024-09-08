@@ -15,7 +15,8 @@ The LOREM IPSUM COMPANY login page is designed to offer a clean and professional
 
 ## Visual Preview
 
-![Login Page Preview](https://via.placeholder.com/800x600?text=Login+Page+Preview)
+![Login Page Preview](resources/demo.png)
+
 
 ## Technologies Used
 
